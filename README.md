@@ -1,6 +1,6 @@
 # Meta #
 
-**Writing down the outlines and the world.**
+**Writing down the outlines of the world.**
 
 #### Index
 
