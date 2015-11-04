@@ -1,26 +1,10 @@
-# Scherbe #
+# Meta #
 
-**Experimental installation project about a post-devastation simulation of an unregulated neutrino power plant.**
+**Writing down the outlines and the world.**
 
-**scherbe:** n. *fragment, (broken) piece - usually a shard of pottery or glass*
+#### Index
 
-#### Ideas
-
-  * Visual
-    * brutalist architecture
-    * holographic 2D overlays
-    * data visualization
-
-  * Audio
-    * event linked sounds
-    * experimental background audio
-    * data driven sounds
-
-  * Data
-    * holographic overlays of statistical data sets
-    * use of game engine's analytics system to generate visual reports
-    * analytics data drives events
-
-#### Want to collaborate?
-
-We are searching for **3D, 2D, Audio & Code** people. Just contact us.
+  * The Principles
+  * The World
+  * The Ontology
+  * The Plot
