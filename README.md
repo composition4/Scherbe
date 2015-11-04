@@ -23,4 +23,4 @@
 
 #### Want to collaborate?
 
-We are searching for *3D, 2D, Audio & Code* people. Just contact us.
+We are searching for **3D, 2D, Audio & Code** people. Just contact us.
