@@ -8,10 +8,10 @@
 >
 > In your tour simulation, your remote exploration unit will include the
 > following tools:
-> * __Compass & Chronometer__ - to aid you in orientation of space-time
-> * __Multi-meter__ - device used for reading various environmental readings
-> * __Omni-tool__ - manipulation of the devices you will encounter on
->   your disaster site tour
+> * __Compass__ - device which allows the subject certain spatial orientation.
+> * __Chronometer__ - device which allows the subject certain time orientation.
+> * __Multimeter__ - device which displays lectures of several relevant environmental parameters.
+> * __Omnitool__ - device which allows manipulation of other devices subject may encounter at the disaster site
 >
 > In cases of extreme emergency, you can press the large red "Escape"
 > button to eject you from the neural connection to your remote exploration
