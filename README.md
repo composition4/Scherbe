@@ -1,6 +1,6 @@
 # Scherbe #
 
-**Experimental installation project about a post-devastation simulation of an unregulated neutrino power plant.**
+**Experimental installation project about a scientific post-devastation research area.**
 
 **scherbe:** n. *fragment, (broken) piece - usually a shard of pottery or glass*
 
